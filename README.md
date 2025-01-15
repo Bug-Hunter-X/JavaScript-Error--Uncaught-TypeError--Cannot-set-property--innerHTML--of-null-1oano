@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in web development: attempting to manipulate a DOM element that doesn't exist. The bug.html file contains the erroneous code, while bugSolution.html provides a corrected version.  The key is to ensure that the element you're targeting actually exists in the DOM before trying to modify it.
